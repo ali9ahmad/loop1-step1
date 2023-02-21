@@ -1,14 +1,10 @@
 /* •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••• */
 /************** ROOT STYLES START **************/
 :root{
-    --header-bg-color: ;
     --main-bg-color: #85a5d4;
     --main-text-color: #A7A7A7;
     --main-subtitle-color: #4C5FC9;
     --card-bg-color: #f6f5f7;
-    --deliver-bg-color: ;
-    --deliver-name-color: ;
-    --footer-bg-color: ;
 }
 
 html{
@@ -76,9 +72,6 @@ a{
 /************** MAIN STYLES START **************/
 .site-main {
     padding-top: 150px;
-}
-
-.service__Wrapper {
 }
 
 .service__list {
@@ -151,6 +144,5 @@ a{
 .price__amount {
     font-size: 27px;
 }
-
 
 /************** MAIN STYLES END **************/
